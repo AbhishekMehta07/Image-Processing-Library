@@ -1,4 +1,4 @@
-Image Processing Library
+**Image Processing Library**
 A Python-based library that provides a set of tools for performing various image processing tasks. This library allows you to manipulate and analyze images efficiently, offering common operations like resizing, filtering, and transformation.
 
 Features
